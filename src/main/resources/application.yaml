@@ -1,0 +1,12 @@
+# 应用名称
+spring:
+  application:
+    name: qpt
+# 应用服务 WEB 访问端口
+server:
+  port: 8080
+
+#  allure.results.directory=target/allure-results
+#  allure.link.issue.pattern=https://example.org/issue/{}
+#  allure.link.tms.pattern=https://example.org/tms/{}
+
